@@ -1,15 +1,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Afraz Butt</h1>
-<h3 align="center">A software developer, Data Scientist and Proud Pakistani!</h3>
+<h3 align="center">A software engineer and Proud Pakistani!</h3>
 
 
 
-- 🌱 I’m currently working in **Machine Learning** and side hobby : **React**
+- 🌱 I’m currently working in **AI-based Solutions powered by Devops** and side hobby : **Data Visualization**
 
-- 💬 Ask me about **C # (.NET), Python and some old school C++**
+- 💬 Ask me about **C # (.NET), Python, Cloud and some old school systems designs (I'm still a nerd!)**
+
+- 📜 I'm 2x certified on Azure! (Fun fact: I did it because I was feeling bored)
 
 - 📫 How to reach me : **afraz.jed.grw@gmail.com**
+
+- 🌐 See my work over at: https://ratchet-lancer.vercel.app
 
 - ⚡ Fun fact **I enjoy developing Desktop and Web Applications, especially backend**
 
