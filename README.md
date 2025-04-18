@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Afraz Butt!</h1>
-<h3 align="center">A Full Stack Software Engineer from Pakistan</h3>
+<h3 align="center">A Software and ML Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buttafraz22&label=Profile%20views&color=0e75b6&style=flat" alt="buttafraz22" /> </p>
 
 - 🔭 I’m currently working on [Hirenze](hirenze.com)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **various things.**
 
-- 👨‍💻 All of my projects are available at [buttafraz.com](buttafraz.com)
+- 👨‍💻 All of my projects are available at [buttafraz.com](ratchet-lancer.vercel.app)
 
-- 💬 Ask me about **Django, c++, Linux, Azure**
+- 💬 Ask me about **Django, c++, Linux, Azure, NLP**
 
 - 📫 How to reach me **afraz.jed.grw@gmail.com**
 
